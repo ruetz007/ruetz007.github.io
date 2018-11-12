@@ -17,13 +17,16 @@ the two subjects can combine to result in efficient and effective workflows.
 
 ## Current Work
 
-I am now a GIS Student Worker for the Minnesota Geospatial Information Office and a Research Assistant in the
-Borchert Map Library.
+I am now a GIS Student Worker for the Minnesota Geospatial Information Office (MnGeo) and a Research Assistant in the
+Borchert Map Library. Both positions involve working with metadata and GIS portals, and my work with MnGeo includes documentation, dataset editing, and providing assistance with a wide variety of projects.
 
 ## Professional Development
 
 In October 2018, I attended the GIS/LIS Conference in Duluth and met lots of wonderful people through networking
-events there. Future events include the UMN Spatial forum on November 14th, 2018, and Minnesota GIS Day on November 15th 2018. I will be presenting at Minnesota GIS Day as part of a student panel.
+events there. Future events include the UMN Spatial forum on November 14th, 2018, and Minnesota GIS Day on November 15th 2018. I will be presenting at Minnesota GIS Day as part of a student panel. I am currently a member of the UMN GISSO (GIS Student Organization).
+
+In the future, I aim to become a certified GISP and work in the public sector. My work for MnGeo thus far has been very rewarding
+, so I would like to continue working at the state. Private sector work is not ruled out though; I am open to all avenues.
 
 ## Interests
 
