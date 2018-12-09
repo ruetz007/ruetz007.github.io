@@ -79,6 +79,14 @@
       <li>Arranger</li>
       <li>Responsibility</li>
     </ul>
+    <script type="text/javascript">
+      console.log('new one');
+      let elements = document.getElementsByClassName('tag-h1');
+      for (let i in elements) {
+        console.log('deleting ' + elements[i]);
+        elements[i].style.display = 'none';
+      }
+    </script>
   </body>
 </html>
 
