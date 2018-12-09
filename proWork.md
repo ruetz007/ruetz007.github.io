@@ -7,7 +7,12 @@ title: Work Examples
 ## UMN Transit Map
 
 I produced this map as a part of my Geovisualization class this semester. The legend was designed to be
-interactive, so the user could hover their cursor over the circle and information about each route/legend item would pop up.
+interactive, so the user could hover their cursor over the circle and information about each route/legend item would pop up. This map was made using Processing, an open-source graphical library and IDE.
+
+Skills:
+  * Cartographic principles
+  * Map abstraction
+  * Java
 
 ![umnTransitMap](Assignment03_EmilyRuetz.png)
 
@@ -29,6 +34,11 @@ As a part of my computer science degree, I did research and wrote an honors thes
 
 This Jupyter notebook was created from scratch as a part of an ArcGIS I exercise. It walks through how to set up, view files,
 and use a geoprocessing tool to create a new feature class.
+
+Skills:
+* Python
+* arcpy
+* ArcGIS Pro
 
 ![jupyterNotebook](ruete04_ex4_notebook.jpg)
 ![nb2](ruete04_ex4_notebook2.jpg)
